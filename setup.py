@@ -7,7 +7,7 @@ setup(
   name = 'oneNeuronUploader',
   packages = find_packages(),
   include_package_data=True,
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'Its an auto video uploading library',
   long_description=long_description,
