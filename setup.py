@@ -12,7 +12,7 @@ setup(
   description = 'Its an auto video uploading library',
   long_description=long_description,
   long_description_content_type="text/markdown",
-  url="https://github.com/Rishav-hub/Vimeo_Automation/tree/bappy",
+  url="https://github.com/entbappy/oneNeuronUploader",
   author = 'Bappy Ahmed',
   author_email = 'entbappy73@gmail.com',
   keywords = ['oneNeuronUploader'],
